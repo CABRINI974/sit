@@ -1,40 +1,44 @@
-XADREZ
-O xadrez é um jogo de tabuleiro de dois jogadores que existe desde o tempo das civilizações
-antigas, China e Egito já foram cotadas como possíveis países de origem do xadrez, mas
-historiadores modernos dizem que a Índia é o provável país de origem do xadrez que era
-diferente do jogo moderno que jogamos atualmente, antigamente o xadrez se chamava
-Chaturanga e tinha regras diferentes do xadrez moderno, o Chaturanga possuia elefantes ao
-em vez de bispos, a dama a peça mais poderosa do xadrez era conhecida como Vizir e só tinha
-mais valor que os peões, os peões não podiam se mover por duas casas em seu lance inicial e
-não existia o roque
-As primeiras mudanças do xadrez começaram em 1475 quando foram criadas regras que
-tornaram o xadrez parecido com o que é atualmente, não se sabe se foi na Itália ou Espanha
-que as modificações foram inventadas mas se sabe que foi na Europa que se iniciou. A partir
-dessas modificações nas regras, o jogo ganhou mais destaque e passou a ter táticas mais
-elaboradas, tanto para a abertura quanto os finais das partidas, além de publicações de
-inúmeros livros a respeito
-Foi na França, no século XVIII, que eventos de xadrez começaram a ficar mais famosos. Os
-mestres da época se enfrentavam em partidas, cujo palco eram as cafeterias locais,
-distribuídas pelas maiores cidades europeias. No século seguinte, os clubes de xadrez tiveram
-um rápido desenvolvimento e partidas por correspondência entre cidades se tornaram
-comuns. Jornais passaram a destacar o jogo e publicações foram feitas contendo ideias
-avançadas dos mais célebres enxadristas do momento. Muitos dos mais fortes enxadristas
-frequentavam esses estabelecimentos como Philidor um dos maiores gênios da história do
-jogo, conhecido por um xeque mate com seu nome, uma abertura e suas composições
-estudadas por grandes mestres até os dias atuais. Não apenas enxadristas participavam destes
-locais mas figuras de renome fora do xadrez como Benjamin Franklin também gostavam de
-jogar nestes locais
-Franklin, embora fosse de um país até então com pouca expressão no jogo, contribuiu muito
-durante os anos que viveu em Paris e frequentou os cafés. Suas publicações se espalharam
-pela Europa antes mesmo de chegar ao seu país natal e, além de estratégias de jogo, seus
-textos continham também lições éticas, como formas de se comportar nos momentos de
-vitória ou derrota.
-O primeiro torneio com as regras modernas de xadrez foi realizado em Londres, no ano de
-1851. O alemão Adolf Anderssen também considerado um gênio de sua época se tornou o
-campeão e foi considerado o melhor jogador do mundo para tornar o xadrez como um
-esporte, em 1924 foi criada a Federação Internacional de Xadrez, FIDE, que segue até hoje
-fazendo os campeonatos mundiais da categoria, nos quais inúmeros enxadristas já se
-tornaram campeões com conceitos,estratégias e táticas inovadoras para o xadrez como José
-Raul Capablanca, Alekhine, Lasker, Botvinni, Bobby Fischer, Karpov, Kasparov dentre outros
-trazendo ao esporte partidas realmente memoráveis e tornando-o muito mais que um simples
-jogo de tabuleiro mas também uma arte, uma ciência um estilo de vida.
+<!DOCKTYPE html>
+<html>
+  <meta charset="UTF-8">
+  <h1>XADREZ</h1>
+  <p>O xadrez é um jogo de tabuleiro de dois jogadores que existe desde o tempo das civilizações
+  antigas, China e Egito já foram cotadas como possíveis países de origem do xadrez, mas
+  historiadores modernos dizem que a Índia é o provável país de origem do xadrez que era
+  diferente do jogo moderno que jogamos atualmente, antigamente o xadrez se chamava
+  <strong>Chaturanga</strong> e tinha regras diferentes do xadrez moderno, o Chaturanga possuia elefantes ao
+  em vez de bispos, a dama a peça mais poderosa do xadrez era conhecida como Vizir e só tinha
+  mais valor que os peões, os peões não podiam se mover por duas casas em seu lance inicial e
+  não existia o roque</p>
+  <p>As primeiras mudanças do xadrez começaram em 1475 quando foram criadas regras que
+  tornaram o xadrez parecido com o que é atualmente, não se sabe se foi na Itália ou Espanha
+  que as modificações foram inventadas mas se sabe que foi na Europa que se iniciou. A partir
+  dessas modificações nas regras, o jogo ganhou mais destaque e passou a ter táticas mais
+  elaboradas, tanto para a abertura quanto os finais das partidas, além de publicações de
+  inúmeros livros a respeito</p>
+  <p>Foi na França, no século XVIII, que eventos de xadrez começaram a ficar mais famosos. Os
+  mestres da época se enfrentavam em partidas, cujo palco eram as cafeterias locais,
+  distribuídas pelas maiores cidades europeias. No século seguinte, os clubes de xadrez tiveram
+  um rápido desenvolvimento e partidas por correspondência entre cidades se tornaram
+  comuns. Jornais passaram a destacar o jogo e publicações foram feitas contendo ideias
+  avançadas dos mais célebres enxadristas do momento. Muitos dos mais fortes enxadristas
+  frequentavam esses estabelecimentos como Philidor um dos maiores gênios da história do
+  jogo, conhecido por um xeque mate com seu nome, uma abertura e suas composições
+  estudadas por grandes mestres até os dias atuais. Não apenas enxadristas participavam destes
+  locais mas figuras de renome fora do xadrez como Benjamin Franklin também gostavam de
+  jogar nestes locais<p>
+  <p>Franklin, embora fosse de um país até então com pouca expressão no jogo, contribuiu muito
+  durante os anos que viveu em Paris e frequentou os cafés. Suas publicações se espalharam
+  pela Europa antes mesmo de chegar ao seu país natal e, além de estratégias de jogo, seus
+  textos continham também lições éticas, como formas de se comportar nos momentos de
+  vitória ou derrota.</p>
+  <p>O primeiro torneio com as regras modernas de xadrez foi realizado em Londres, no ano de
+  1851. O alemão Adolf Anderssen também considerado um gênio de sua época se tornou o
+  campeão e foi considerado o melhor jogador do mundo para tornar o xadrez como um
+  esporte, em 1924 foi criada a Federação Internacional de Xadrez, FIDE, que segue até hoje
+  fazendo os campeonatos mundiais da categoria, nos quais inúmeros enxadristas já se
+  tornaram campeões com conceitos,estratégias e táticas inovadoras para o xadrez como José
+  Raul Capablanca, Alekhine, Lasker, Botvinni, Bobby Fischer, Karpov, Kasparov dentre outros
+  trazendo ao esporte partidas realmente memoráveis e tornando-o muito mais que um simples
+  jogo de tabuleiro mas também uma arte, uma ciência um estilo de vida.</p>
+</html>
